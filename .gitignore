@@ -1,0 +1,4 @@
+node_modules/
+dist/
+storage/memory.json
+npm-debug.log
